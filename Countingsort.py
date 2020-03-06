@@ -34,7 +34,7 @@ def desenhaGrafico(x,y,xl = "Entradas", yl = "Saídas", z='Tempo'):
 
 
 if __name__ == '__main__':
-    z = [100000, 200000, 300000, 400000, 500000, 1000000, 2000000]
+    z = [30000,40000,50000,60000,70000]
     lista = []
     newlista = []
     x = []
